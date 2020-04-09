@@ -17,7 +17,6 @@ class ReportTableViewCellController: UITableViewCell {
     func setReportData() {
         titleLabel.text! = "Mini Challenge 2"
         durationLabel.text! = "2 - 3 hours"
-        statusLabel.text = "On Time"
     }
 
 }
